@@ -1,0 +1,11 @@
+/* Default styles for light theme */
+body.light {
+  background-color: #ffffff; /* Light background */
+  color: #000000; /* Light text color */
+}
+
+/* Styles for dark theme */
+body.dark {
+  background-color: #000000; /* Dark background */
+  color: #ffffff; /* Dark text color */
+} 
